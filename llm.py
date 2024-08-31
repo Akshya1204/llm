@@ -7,7 +7,7 @@ import subprocess
 from datetime import datetime
 
 # Replace this with your actual Google API key
-GOOGLE_API_KEY = "AIzaSyDH5hByP9Okxe8IpO7UYHqImsH24MB6f_Y"
+GOOGLE_API_KEY = "Google API Key"
 
 # Initialize recognizer and text-to-speech engine
 recognizer = sr.Recognizer()
